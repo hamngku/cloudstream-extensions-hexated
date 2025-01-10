@@ -25,5 +25,5 @@ cloudstream {
     )
 
 
-    iconUrl = "https://www.google.com/s2/favicons?domain=179.43.163.54&sz=%size%"
+    iconUrl = "https://www.google.com/s2/favicons?domain=rebahinxxi.asia&sz=%size%"
 }
